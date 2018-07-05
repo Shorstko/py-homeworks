@@ -1,9 +1,13 @@
 # Домашнее задание к лекции 1.2-1.3 «Циклы. Типы данных. Коллекции данных»
 
 Перед выполнением задания прочитайте короткую статью [про типы данных](https://wombat.org.ua/AByteOfPython/data_structures.html).
+
 Подробно про [списки](https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html)
+
 Подробно про [кортежи](https://pythonworld.ru/tipy-dannyx-v-python/kortezhi-tuple.html)
+
 Подробно про [множества](https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html)
+
 Подробно про [словари](https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html)
 
 Используйте форматированный вывод (при помощи % или .format) при вызове print в домашней работе. В качестве подсказок можно использовать документацию:
