@@ -16,6 +16,8 @@
 
 [https://docs.python.org/3/tutorial/inputoutput.html](https://docs.python.org/3/tutorial/inputoutput.html)
 
+Для подготовки к следующему уроку прочитайте про [функции](http://pythonicway.com/python-functions)
+
 ## Домашнее задание следующее:
 
 1. Понимание типов данных.
